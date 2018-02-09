@@ -1,0 +1,3 @@
+pipelone:
+  build:
+    image: eboraas/laravel
